@@ -1,4 +1,4 @@
-TypeScriptExamples
+TypeScript Examples
 ==================
 
-Examples of Typescript
+Examples of Typescript code.
